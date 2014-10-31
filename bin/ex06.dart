@@ -1,4 +1,4 @@
-import '/Users/Pascua/Documents/SIO2109/ex06/lib/define_fonctions_ex06.dart';
+import 'package:ex06/define_fonctions_ex06.dart';
 
 ex01 (){
   print ('Ex 6.1');
