@@ -1,6 +1,6 @@
 ex06
 
-18/20
+16/20
 
 -1
 attention: formatage (voir: https://www.dartlang.org/articles/style-guide/)
@@ -14,6 +14,11 @@ bool testPalindrome(String text) {
 Map listeofnames (var names){
 -->
 Map listeOfNames (List names) {
+
+6.5
+Prepare two lists, one with the names of players and their CLUBS,
+-2
+se il vous plaît utiliser des listes et non les maps
 
 
 
