@@ -1,5 +1,24 @@
 ex06
 
+18/20
+
+-1
+attention: formatage (voir: https://www.dartlang.org/articles/style-guide/)
+
+-1 
+se il vous plaît, utiliser les types pour des paramètres de fonctions
+bool test_palindrome(String text){
+-->
+bool testPalindrome(String text) {
+
+Map listeofnames (var names){
+-->
+Map listeOfNames (List names) {
+
+
+
+------------------
+
 ?/20
 
 import '/Users/Pascua/Documents/SIO2109/ex06/lib/define_fonctions_ex06.dart';
